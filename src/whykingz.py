@@ -1,3 +1,6 @@
+import pandas as pd
+
+
 def approximate_function(t: int, A: float, h: float) -> float:
     
     '''

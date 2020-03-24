@@ -15,7 +15,10 @@ structure:
  
 to run jupyter notebook with necessary env run in terminal command
 
-```poetry run jupyter notebook```
+```
+poetry update
+poetry run jupyter notebook
+```
 
 Задачи:
 1. Исследование данных, поиск зависимостей и скрытых переменных;
