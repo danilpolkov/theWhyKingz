@@ -1,7 +1,9 @@
 # theWhyKingz
-
+---
 this repository was created for test task
 
+structure:
+```
 |
 |- data        -> folder with external data)
 |
@@ -9,10 +11,11 @@ this repository was created for test task
 |
 |- src         -> folder with necessary functions
 |
-
+ ```
+ 
 to run jupyter notebook with necessary env run in terminal command
 
-'''poetry run jupyter notebook'''
+```poetry run jupyter notebook```
 
 Задачи:
 1. Исследование данных, поиск зависимостей и скрытых переменных;
