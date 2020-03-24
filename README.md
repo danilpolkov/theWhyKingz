@@ -5,7 +5,7 @@ this repository was created for test task
 structure:
 ```
 |
-|- data        -> folder with external data)
+|- data        -> folder with external data
 |
 |- notebooks   -> folder with notebooks
 |
